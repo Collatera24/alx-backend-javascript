@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 /**
  * Contains the miscellaneous route handlers.
  * @author Kolawole Tella <https://github.com/Collatera24>
